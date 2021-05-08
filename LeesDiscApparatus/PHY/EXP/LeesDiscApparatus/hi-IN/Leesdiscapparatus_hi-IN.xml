@@ -1,0 +1,145 @@
+<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="Leesdiscapparatus.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_25DEGREE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ALUMINIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_BRASS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_C">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CARDBORD">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CELSIUS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CHAMBER_TEMP_LABEL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_D">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_DISC_TEMP_LABEL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_GLASS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_H">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_HCALUMINIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_HCBRASS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_HEATCAPACITY">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_INSULATOR">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LABELINSULATOR">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_LABELLEESDISC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_M">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_MASSLABEL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_MATERIAL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_MICA">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_OAK">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_OFFHEARER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_ONHEATER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_PLACEOBJ">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_PLYWOOD">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_PVC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_R">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_REM_STEAM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_REMOBJ">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_RESET">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_SELECTOBJ">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_SELECTT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_SHWGRAPH">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_SHWWATCH">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_SPHEAT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_T1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_T2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TEMP2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TEST1">
+        <source>test</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_THERMAL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_WHOOL">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

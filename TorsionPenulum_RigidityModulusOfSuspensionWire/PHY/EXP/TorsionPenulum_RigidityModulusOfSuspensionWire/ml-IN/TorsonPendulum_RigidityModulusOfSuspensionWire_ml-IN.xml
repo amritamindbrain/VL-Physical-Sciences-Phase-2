@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="TorsonPendulum_RigidityModulusOfSuspensionWire.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_AMPLITUDE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CHOOSE_OBJECT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CHOOSE_STRING">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CYL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_DISC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_DUMBEL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LENGTH">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MASS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MI">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_RADIUS">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

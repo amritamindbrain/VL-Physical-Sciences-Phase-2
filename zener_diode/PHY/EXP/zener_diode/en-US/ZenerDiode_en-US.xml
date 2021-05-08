@@ -1,0 +1,108 @@
+<!--
+Developed under a Research grant from NMEICT, MHRD
+by
+Amrita CREATE (Center for Research in Advanced Technologies for Education),
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="ZenerDiode.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CHOOSEINPUTVOLTAGE">
+        <source>Supply voltage</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CHOOSELOAD">
+        <source>Load Resistance in ohm</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CHOOSESERIES">
+        <source>Series Resistance in ohm</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CHOOSEZENER">
+        <source>Choose Zener Diode</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_HEADING">
+        <source>Zener Diode</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_IL">
+        <source>Current through Load Resistance (IL)       :</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_IS">
+        <source> Current through Series Resistance (Is)      :</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_IZ">
+        <source>Current through Zener Diode (Iz)     :</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MSG">
+        <source>Enter the values in the correct range</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_PLACEKEY">
+        <source>Insert Key</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_REMOVEKEY">
+        <source>Remove Key</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_RESULT">
+        <source>out put
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_RH_MAX">
+        <source>1000</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_RH_MIN">
+        <source>200</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_RHEOSTATVALUE">
+        <source>Rheostat Value in ohm</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_RL_MAX">
+        <source>12800</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_RL_MIN">
+        <source>1000</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_RS_MAX">
+        <source>5000</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_RS_MIN">
+        <source>300</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_SE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_SHOWOUTPUT">
+        <source>Show Output Voltage</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_VIN_MAX">
+        <source>25</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_VIN_MIN">
+        <source>0</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_VS">
+        <source>Voltage across Series Resistance (Vs)    :</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_VS_SERIES">
+        <source>Series Resistance Voltage (Vs)   :</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_ZENER1">
+        <source>BZX5V6,Vz=5.6</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_ZENER2">
+        <source>BZX7V5 ,Vz=7.5</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_ZENER3">
+        <source>BZX10V0 ,Vz=10</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

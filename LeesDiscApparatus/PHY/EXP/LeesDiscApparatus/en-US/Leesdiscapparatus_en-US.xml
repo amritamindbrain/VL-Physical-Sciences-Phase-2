@@ -1,0 +1,145 @@
+<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="Leesdiscapparatus.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_25DEGREE">
+        <source>25 °C</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ALUMINIUM">
+        <source>Aluminium</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_BRASS">
+        <source>Brass</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_C">
+        <source>Specific heat capacity of the metallic disc (J/Kg/K): 372.5</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CARDBORD">
+        <source>Cardboard</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CELSIUS">
+        <source>°C</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CHAMBER_TEMP_LABEL">
+        <source>Chamber Temp (°C) :</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_D">
+        <source>Thickness of the object (mm): </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_DISC_TEMP_LABEL">
+        <source>Lee`s Disc Temp (°C) :</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_GLASS">
+        <source>Glass</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_H">
+        <source>Height of metallic disc (cm):     1.5</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_HCALUMINIUM">
+        <source>0.9</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_HCBRASS">
+        <source>0.38</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_HEATCAPACITY">
+        <source>Select specific heat capacity</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_INSULATOR">
+        <source>Select insulator</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_LABELINSULATOR">
+        <source>Insulator:</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_LABELLEESDISC">
+        <source>Lee&apos;s Disc:</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_M">
+        <source>Mass of the metallic disc  (Kg): </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_MASSLABEL">
+        <source>Mass m (kg) = </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_MATERIAL">
+        <source>Select material</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_MICA">
+        <source>Mica</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_OAK">
+        <source>Oak Wood</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_OFFHEARER">
+        <source>Stop steam</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_ONHEATER">
+        <source>Start steam</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_PLACEOBJ">
+        <source>Place insulator</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_PLYWOOD">
+        <source>Plywood</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_PVC">
+        <source>PVC</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_R">
+        <source>Radious of metallic disc (cm):   5</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_REM_STEAM">
+        <source>Remove chamber</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_REMOBJ">
+        <source>Remove insulator</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_SELECTOBJ">
+        <source>Select Object</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_SELECTT">
+        <source>Select thickness (mm)</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_SHWGRAPH">
+        <source>Show graph</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_SHWWATCH">
+        <source>Show stopwatch</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_SPHEAT">
+        <source>Specific heat capacity of metalic disc C (J/kg°C) = </source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_T1">
+        <source>T1:</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_T2">
+        <source>T2:</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TEMP2">
+        <source>Temperature2 =</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TEST1">
+        <source>test</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_THERMAL">
+        <source>Thermal conductivity of metallic disc  k (W/mK) = </source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_WHOOL">
+        <source>Whool</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
