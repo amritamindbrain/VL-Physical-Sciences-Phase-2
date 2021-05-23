@@ -1,4 +1,4 @@
-# Vlab-Physics-Flash
+# VL-Physical Sciences
 
 Virtual Lab Physics flash animations and simulations 
 
